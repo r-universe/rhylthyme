@@ -1,0 +1,10 @@
+{
+  "id": 173555639,
+  "created_at": "2026-10-20T22:35:34.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rhylthyme.r-universe.dev"]
+}
